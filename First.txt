@@ -11,7 +11,7 @@ git add filename
 git add .
 or,
 git add *
-	adds all the files in folder to the repository
+	adds all the files in folder to the repository.
 
 git reset
 	cancels the changes in the repository
@@ -33,4 +33,4 @@ git branch branchname
 	creates new branch 
 
 git checkout branchname
-	changes the current branch
+	changes the current branch.
