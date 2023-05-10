@@ -2,7 +2,7 @@ git init
 	re/initializes empty git repository
 
 git status
-	shows the current status of the repository
+	shows the current status of the repository.
 
 git add filename
 	adds file to the repository
