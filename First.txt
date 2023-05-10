@@ -9,7 +9,7 @@ git add filename
 	filename must include extensions as well
 
 git add .
-or
+or,
 git add *
 	adds all the files in folder to the repository
 
