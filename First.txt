@@ -1,5 +1,5 @@
 git init
-	re/initializes empty git repository
+	re/initializes empty git repository.
 
 git status
 	shows the current status of the repository.
