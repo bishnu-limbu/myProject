@@ -6,7 +6,7 @@ git status
 
 git add filename
 	adds file to the repository
-	filename must include extensions as well
+	filename must include extensions as well.
 
 git add .
 or,
